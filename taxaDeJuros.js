@@ -13,7 +13,7 @@ if (dias > 15){
 else{
     valorFinal = (valor * 0.05) + Number(valor);
 }
-console.log('')
+console.log('');
 console.log(`valor original da divida : ${valor}`);
 console.log(`dias em atraso ${dias}`);
-console.log(`Valor total com juros : R$ ${valorFinal}`)
+console.log(`Valor total com juros : R$ ${valorFinal}`);

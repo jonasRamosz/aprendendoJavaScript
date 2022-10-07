@@ -35,4 +35,4 @@ var frases_do_dia = [
 var data = new Date();
 var dia = data.getDate();
 
-console.log(`A frase do dia é : ${frases_do_dia[--dia]}`)
+console.log(`A frase do dia é : ${frases_do_dia[--dia]}`);
